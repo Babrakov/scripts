@@ -1,1 +1,1 @@
-Скрипт для установки консольной утилиты для работы с файлообменником mega.nz
+The script that installs console tool to operate with mega.nz filestorage
