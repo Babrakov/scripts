@@ -1,1 +1,1 @@
-The script that installs console tool to operate with mega.nz filestorage
+Install console tool to operate with mega.nz filestorage
