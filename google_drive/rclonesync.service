@@ -1,0 +1,11 @@
+[Unit]
+Description=Rclone Sync Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/rclonesync
+User=berzerk
+Group=berzerk
+
+[Install]
+WantedBy=default.target

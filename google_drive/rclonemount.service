@@ -1,0 +1,11 @@
+[Unit]
+Description=Rclone Mount Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/rclonemount
+User=berzerk
+Group=berzerk
+
+[Install]
+WantedBy=default.target

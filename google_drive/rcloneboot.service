@@ -1,0 +1,11 @@
+[Unit]
+Description=Rclone Boot Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/rcloneboot
+User=berzerk
+Group=berzerk
+
+[Install]
+WantedBy=default.target
