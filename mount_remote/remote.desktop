@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=RemoteFolder
+Exec=/usr/bin/linktoscript
+Terminal=false
+Type=Application
