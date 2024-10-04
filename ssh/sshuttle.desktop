@@ -1,5 +1,5 @@
 [Desktop Entry]
 Name=Transparent proxy sshuttle
-Exec=sudo /home/user/sshuttle.sh
+Exec=sudo /home/user/Soft/sshuttle.sh
 Terminal=false
 Type=Application
