@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Development;IDE;
+Exec=/home/berzerk/Soft/Godot/Godot_v4.3-stable_linux.x86_64
+Icon=/home/berzerk/Soft/Godot/Godot_icon.svg.png
+Keywords=development;godot;ide;
+Name=Godot
+Terminal=false
+Type=Application

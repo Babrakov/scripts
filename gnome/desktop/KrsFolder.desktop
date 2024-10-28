@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=KrsFolder
+Exec=/usr/bin/krs
+Terminal=false
+Type=Application
