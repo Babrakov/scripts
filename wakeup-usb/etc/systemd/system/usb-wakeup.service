@@ -1,0 +1,12 @@
+[Unit]
+Description=Enable USB wakeup on boot
+After=multi-user.target suspend.target hibernate.target hybrid-sleep.target
+
+[Service]
+Type=oneshot
+ExecStart=/bin/sh -c 'echo "enabled" > /sys/bus/usb/devices/3-2/power/wakeup'
+ExecStop=/bin/sh -c 'echo "enabled" > /sys/bus/usb/devices/3-2/power/wakeup'
+RemainAfterExit=true
+
+[Install]
+WantedBy=multi-user.target suspend.target hibernate.target hybrid-sleep.target

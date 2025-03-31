@@ -1,8 +1,8 @@
 [Desktop Entry]
 Categories=Development;IDE;
-Exec=/home/berzerk/Soft/idea-IU/bin/idea.sh
+Exec=/home/berzerk/Soft/IntelliJ-IDEA/bin/idea
 GenericName=Capable and Ergonomic IDE for the Java Virtual Machine
-Icon=/home/berzerk/Soft/idea-IU/bin/idea.png
+Icon=/home/berzerk/Soft/IntelliJ-IDEA/bin/idea.png
 Keywords=development;idea;ide;intellij;java;
 Name=IntelliJ IDEA Ultimate
 StartupNotify=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Categories=Development;IDE;
-Exec=/home/berzerk/Soft/pycharm/bin/pycharm.sh
-Icon=/home/berzerk/Soft/pycharm/bin/pycharm.png
+Exec=/home/berzerk/Soft/PyCharm/bin/pycharm
+Icon=/home/berzerk/Soft/PyCharm/bin/pycharm.png
 Keywords=development;pycharm;ide;python;
 Name=PyCharm
 StartupNotify=true

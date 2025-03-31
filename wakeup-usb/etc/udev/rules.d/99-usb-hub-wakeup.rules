@@ -1,0 +1,1 @@
+ACTION=="add|change", SUBSYSTEM=="usb", KERNEL=="3-2", ATTR{idVendor}=="0bda", ATTR{idProduct}=="5411", RUN+="/usr/bin/systemctl restart usb-wakeup.service"

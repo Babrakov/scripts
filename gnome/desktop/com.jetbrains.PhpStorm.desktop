@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Development;IDE;
-Exec=/home/berzerk/Soft/PhpStorm/bin/phpstorm.sh
+Exec=/home/berzerk/Soft/PhpStorm/bin/phpstorm
 Icon=/home/berzerk/Soft/PhpStorm/bin/phpstorm.png
 Keywords=development;phpstorm;ide;php;
 Name=PhpStorm
